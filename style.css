@@ -1,3 +1,43 @@
-body {
-  background-color: aliceblue;
+
+#Header{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+border: 5px solid orange;
+border-radius: 20px;
+text-align: center;
+margin: 20px;
+font-size: 1.5em;
+color: rgb(6, 92, 92);
 }
+
+#main-paragraph{
+font-size: 1.5em;
+font-style: italic;
+color: rgb(23, 110, 62);
+
+
+}
+
+#gallery div{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%
+}
+
+#gallery {
+font-size: 2em;
+text-align: center;
+max-width: 100%;
+height: auto;
+}
+
+footer{
+font-size: 2em;
+text-align: center;
+border: 2px solid rgb(28, 93, 151);
+border-radius: 3px;
+max-width: 100%;
+height: auto;
+
+}
+
